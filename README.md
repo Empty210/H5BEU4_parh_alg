@@ -4,7 +4,7 @@ Párhuzamosítást Posix szálakkal és OpenMP függvénykönyvtárral értem el
 
 Az alábbi harmadfokú egyenletnek határoztam meg a gyökét 10^-8 -os pontosággal.
 
-![függvénykép.png](https://github.com/Empty210/H5BEU4_parh_alg/tree/main/Feleves_feladat/f%C3%BCggv%C3%A9nyk%C3%A9p.png)
+![függvénykép.png](https://github.com/Empty210/H5BEU4_parh_alg/blob/main/Feleves_feladat/f%C3%BCggv%C3%A9nyk%C3%A9p.png)
 
 Itt azt mértem 1,2,3 szálon, hogy mennyi idő alatt fut le a program és ezt vetettem össze az OpenMP-s és szekvenciális futási idővel.
 
