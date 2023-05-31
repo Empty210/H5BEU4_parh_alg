@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1647777903 source:h:\github\parhuzamos_algoritmusok\féléves_feladat\szelo_modszer iterativ verz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+
+1648559353 source:h:\github\parhuzamos_algoritmusok\feleves_feladat\szelo_modszer iterativ verz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+
+1650957692 source:f:\Új mappa\parh_alg\feleves_feladat\szelo_modszer iterativ verz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+
